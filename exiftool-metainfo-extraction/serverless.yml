@@ -2,6 +2,8 @@
 #    https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/
 
 service: exiftool-metainfo-extraction
+tenant: bdebelo
+app: skill-311-app
 
 # You can change this to any cloud provider:
 # AWS Lambda: <https://aws.amazon.com/lambda/>
