@@ -2,6 +2,8 @@
 #    https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/
 
 service: box-skills-google-image
+tenant: bdebelo
+app: skill-311-app
 
 provider:
   name: aws
